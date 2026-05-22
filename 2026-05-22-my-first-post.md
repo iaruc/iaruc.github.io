@@ -1,3 +1,8 @@
+---
+layout: post
+title: "我的第一篇博客"
+date: 2026-05-22
+---
 ```python
 print("Hello Statistics!")
 ```
